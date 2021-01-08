@@ -2,6 +2,9 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../App.css";
 
+// Importing file
+import resume from "../assets/ed-resume.pdf";
+
 const Contact = () => {
     return (
         <div className="contact">
@@ -40,7 +43,7 @@ const Contact = () => {
                             <br></br>
 
                             <div>Resume</div>
-                            <div>Click here for resume</div>
+                            <div><a href={resume}>Click here for resume</a></div>
 
                         </div>
 
