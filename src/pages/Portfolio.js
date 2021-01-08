@@ -22,8 +22,6 @@ const Portfolio = () => {
                     </div>
                     <div className="card-body">
 
-                        <div className="card-body">
-
                             <div className="row">
 
                                 <div className="col-md-1"></div>
@@ -67,7 +65,7 @@ const Portfolio = () => {
                                     </article>
 
                                 </div>
-
+                                
                             </div>
 
                             <br></br>
@@ -119,8 +117,6 @@ const Portfolio = () => {
                                 </div>
 
                             </div>
-
-                        </div>
 
                     </div>
                 </div>
