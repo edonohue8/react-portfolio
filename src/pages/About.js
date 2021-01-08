@@ -2,6 +2,9 @@ import React from "react";
 import "bootstrap/dist/css/bootstrap.min.css";
 import "../App.css";
 
+// Importing images
+import profilePic from "../assets/images/profile-pic-screengrab.png";
+
 const About = () => {
     return (
         <div className="about">
@@ -18,7 +21,7 @@ const About = () => {
                             <div className="row">
                                 <div className="col-md-3">
 
-                                    
+                                    <img src={profilePic} alt="profile pic of Eric Donohue" width="100%" height="auto%" />
 
                                 </div>
 
