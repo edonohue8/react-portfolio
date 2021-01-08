@@ -1,20 +1,20 @@
 /* Styling for pages */
 
 .container {
-  padding-top: 30px;
-  padding-bottom: 30px;
   background-color: #F0F8FF;
+  padding-bottom: 30px;
+  padding-top: 30px;
 }
 
 .card-header {
-  border-top: 5px solid #B0C4DE;
   border-left: 5px solid #B0C4DE;
   border-right: 5px solid #B0C4DE;
+  border-top: 5px solid #B0C4DE;
 }
 
 .card-body {
-  border-left: 5px solid #B0C4DE;
   border-bottom: 5px solid #B0C4DE;
+  border-left: 5px solid #B0C4DE;
   border-right: 5px solid #B0C4DE;
 }
 

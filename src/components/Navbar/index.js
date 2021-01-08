@@ -5,7 +5,7 @@ import "./style.css";
 
 const Navbar = () => {
     return (
-        <div className="navApp">
+        <div className="navbarStyle">
             <nav className="navbar">
 
                 {/* Create space in navbar */}

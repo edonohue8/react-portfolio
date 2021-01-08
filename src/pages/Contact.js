@@ -1,6 +1,6 @@
 import React from "react";
-import "../App.css";
 import "bootstrap/dist/css/bootstrap.min.css";
+import "../App.css";
 
 const Contact = () => {
     return (
@@ -14,34 +14,34 @@ const Contact = () => {
 
                         <div>
 
-                        <div>Name</div>
+                            <div>Name</div>
                             <div>Eric Donohue</div>
 
                             <br></br>
 
-                                <div>E-mail</div>
-                                <div>ericdon10@icloud.com</div>
+                            <div>E-mail</div>
+                            <div>ericdon10@icloud.com</div>
 
-                                <br></br>
+                            <br></br>
 
-                                    <div>Phone Number</div>
-                                    <div>(323) 546-2748</div>
+                            <div>Phone Number</div>
+                            <div>(323) 546-2748</div>
 
-                                    <br></br>
+                            <br></br>
 
-                                        <div>GitHub</div>
-                                        <div><a href="https://github.com/edonohue8">Click here for link</a></div>
+                            <div>GitHub</div>
+                            <div><a href="https://github.com/edonohue8">Click here for link</a></div>
 
-                                        <br></br>
+                            <br></br>
 
-                                            <div>LinkedIn</div>
-                                            <div><a href="https://www.linkedin.com/in/ericdonohue/">Click here for link</a></div>
+                            <div>LinkedIn</div>
+                            <div><a href="https://www.linkedin.com/in/ericdonohue/">Click here for link</a></div>
 
-                                            <br></br>
+                            <br></br>
 
-                                                <div>Resume</div>
-                                                <div>Click here for resume</div>
-                                                
+                            <div>Resume</div>
+                            <div>Click here for resume</div>
+
                         </div>
 
                     </div>
