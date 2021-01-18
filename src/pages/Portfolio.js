@@ -9,6 +9,9 @@ import burger from "../assets/images/burger.png";
 import quiz from "../assets/images/quiz.png";
 import planner from "../assets/images/planner.png";
 import employee from "../assets/images/employee.png";
+import workoutTracker from "../assets/images/workout-tracker.png";
+import pwaBudget from "../assets/images/pwa-budget.png";
+import googleBooksSearch from "../assets/images/google-books-search.png";
 
 const Portfolio = () => {
     return (
@@ -112,6 +115,56 @@ const Portfolio = () => {
                                         Template Engine - Employee Summary
                                         <br></br>
                                         <a href="https://github.com/edonohue8/templateengine-employeesummary">Github Repo</a>
+                                    </article>
+
+                                </div>
+
+                            </div>
+
+                            <br></br>
+                            <br></br>
+                            <br></br>
+
+                            <div className="row">
+
+                                <div className="col-md-1"></div>
+
+                                <div className="col-md-3">
+
+                                    <img src={googleBooksSearch} className="card-img-top" alt="Google Books search page showing results including book images and descriptions" />
+
+                                    <article class="links">
+                                        <a href="https://afternoon-chamber-11662.herokuapp.com/">Google Books Search</a>
+                                        <br></br>
+                                        <a href="https://github.com/edonohue8/google-books-search">Github Repo</a>
+                                    </article>
+
+                                </div>
+
+                                <div className="col-md-1"></div>
+
+                                <div className="col-md-3">
+
+                                    <img src={workoutTracker} className="card-img-top" alt="workout dashboard showing charts and piecharts" />
+
+                                    <article class="links">
+                                        <a href="https://blooming-badlands-26752.herokuapp.com/">Workout Tracker</a>
+                                        <br></br>
+                                        <a href="https://github.com/edonohue8/workout-tracker">Github Repo</a>
+                                    </article>
+
+                                </div>
+
+                                <div className="col-md-1"></div>
+
+                                <div className="col-md-3">
+
+                                    <img src={pwaBudget} className="card-img-top" alt="pwa application showing chrome dev tools on the side" />
+
+                                    <article class="links">
+                                        <a href="https://glacial-reaches-67160.herokuapp.com/">PWA App: Online/Offline Budget Trackers</a>
+                                        <br></br>
+                                        <a href="https://github.com/edonohue8/pwa-budget-tracker">Github Repo</a>
                                     </article>
 
                                 </div>
