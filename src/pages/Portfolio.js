@@ -50,7 +50,7 @@ const Portfolio = () => {
                                     <article class="links">
                                         <a href="https://project2-group5.herokuapp.com/">Freebeez App</a>
                                         <br></br>
-                                        <a href="https://github.com/edonohue8/project-2">Github Repo</a>
+                                        <a href="https://github.com/edonohue8/Freebeez">Github Repo</a>
                                     </article>
 
                                 </div>
