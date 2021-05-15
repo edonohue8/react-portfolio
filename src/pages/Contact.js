@@ -3,7 +3,7 @@ import "bootstrap/dist/css/bootstrap.min.css";
 import "../App.css";
 
 // Importing file
-// import resume from "../assets/ed-resume.pdf";
+import resume from "../assets/eric-donohue-resume.pdf";
 
 const Contact = () => {
     return (
@@ -42,8 +42,8 @@ const Contact = () => {
 
                             <br></br>
 
-                            {/* <div>Resume</div>
-                            <div><a href={resume}>Click here for resume</a></div> */}
+                            <div>Resume</div>
+                            <div><a href={resume}>Click here for resume</a></div>
 
                         </div>
 
