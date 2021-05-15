@@ -196,12 +196,12 @@ const Portfolio = () => {
 
                             <div className="col-md-3">
 
-                                <img src={app} className="card-img-top" alt="text" />
+                                {/* <img src={app} className="card-img-top" alt="text" /> */}
 
                                 <article class="links">
-                                    <a href="#">App</a>
+                                    {/* <a href="#">App</a>
                                     <br></br>
-                                    <a href="#">Github Repo</a>
+                                    <a href="#">Github Repo</a> */}
                                 </article>
 
                             </div>
@@ -210,12 +210,12 @@ const Portfolio = () => {
 
                             <div className="col-md-3">
 
-                                <img src={app} className="card-img-top" alt="text" />
+                                {/* <img src={app} className="card-img-top" alt="text" /> */}
 
                                 <article class="links">
-                                    <a href="#">App</a>
+                                    {/* <a href="#">App</a>
                                     <br></br>
-                                    <a href="#">Github Repo</a>
+                                    <a href="#">Github Repo</a> */}
                                 </article>
 
                             </div>
