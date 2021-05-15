@@ -27,13 +27,7 @@ const About = () => {
 
                                 <div className="col-md-8">
 
-                                    <p>My name is Eric Donohue. I am currently attending a full stack flex program/boot camp at University of
-                                    California, Riverside. I am acquiring knowledge in programming languages such as HTML, CSS, JavaScipt, jQuery,
-                                    among others. I am tasked with completing a number of assignments and projects, which includes building my portfolio.</p>
-
-                                    <p>My career background includes data administrator responsibilities such as storing and organizing data,
-                                    utilizing database design to create effective queries and exporting data, as well as troubleshooting varied
-                                    issues as they arise. I hope to transition from the world of data to programming, and continuously build on my current knowledge to be more effective and provide quality web development products and hopefully more.</p>
+                                    <p>Proficient Full Stack Web Developer & Database Administrator (DBA) with 9+ years of experience designing, coding, and testing database solutions in MySQL environment. Received Coding Bootcamp certificate. Seeking to use proven database administrator skills to develop and improve professional websites.</p>
 
                                     <p>Please see above for links to my portfolio and contact information.</p>
 
