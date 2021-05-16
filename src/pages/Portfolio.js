@@ -54,6 +54,8 @@ const Portfolio = () => {
                                     <a href="https://project2-group5.herokuapp.com/">Freebeez App</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/Freebeez">Github Repo</a>
+                                    <br></br>
+                                    <p>App to post and claim free items with a fun bee theme</p>
                                 </article>
 
                             </div>
@@ -68,6 +70,8 @@ const Portfolio = () => {
                                     <a href="https://edonohue8.github.io/project-1/">Int'l Travel Decision Assistant</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/project-1">Github Repo</a>
+                                    <br></br>
+                                    <p>App for airline travelers to access travel advisory information, flight quotes, and news</p>
                                 </article>
 
                             </div>
@@ -90,6 +94,8 @@ const Portfolio = () => {
                                     <a href="https://edonohue8.github.io/code-quiz/">JavaScript Code Quiz</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/code-quiz">Github Repo</a>
+                                    <br></br>
+                                    <p>Timed JavaScript fundamentals quiz with specific criteria</p>
                                 </article>
 
                             </div>
@@ -104,6 +110,8 @@ const Portfolio = () => {
                                     <a href="https://edonohue8.github.io/work-day-planner/">Work-day Planner</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/work-day-planner">Github Repo</a>
+                                    <br></br>
+                                    <p>Calendar application to be productive</p>
                                 </article>
 
                             </div>
@@ -116,8 +124,10 @@ const Portfolio = () => {
 
                                 <article>
                                     Template Engine - Employee Summary
-                                        <br></br>
+                                    <br></br>
                                     <a href="https://github.com/edonohue8/templateengine-employeesummary">Github Repo</a>
+                                    <br></br>
+                                    <p>Node CLI that takes user-entered data about employees and generates a HTML webpage displaying that content</p>
                                 </article>
 
                             </div>
@@ -140,6 +150,8 @@ const Portfolio = () => {
                                     <a href="https://afternoon-chamber-11662.herokuapp.com/">Google Books Search</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/google-books-search">Github Repo</a>
+                                    <br></br>
+                                    <p>App to search the Google Books database and save your favorite books</p>
                                 </article>
 
                             </div>
@@ -154,6 +166,8 @@ const Portfolio = () => {
                                     <a href="https://blooming-badlands-26752.herokuapp.com/">Workout Tracker</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/workout-tracker">Github Repo</a>
+                                    <br></br>
+                                    <p>Workout tracker application utilizing MongoDB Atlas</p>
                                 </article>
 
                             </div>
@@ -168,6 +182,8 @@ const Portfolio = () => {
                                     <a href="https://glacial-reaches-67160.herokuapp.com/">PWA App: Online/Offline Budget Trackers</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/pwa-budget-tracker">Github Repo</a>
+                                    <br></br>
+                                    <p>Budget Tracker app to allow for offline access</p>
                                 </article>
 
                             </div>
@@ -190,6 +206,8 @@ const Portfolio = () => {
                                     <a href="https://safe-citadel-99882.herokuapp.com/burgers">Eat Da Burger! Restaurant App</a>
                                     <br></br>
                                     <a href="https://github.com/edonohue8/burger">Github Repo</a>
+                                    <br></br>
+                                    <p>Burger logger app utilizing MySQL, Node, Express, Handlebars, and an ORM</p>
                                 </article>
 
                             </div>
