@@ -38,6 +38,8 @@ const Portfolio = () => {
                                     <a href="https://chitterchatter-app-ed.herokuapp.com">Chitter Chatter</a>
                                     <br></br>
                                     <a href="https://github.com/bbrintle/chitter-chatter">Github Repo</a>
+                                    <br></br>
+                                    <p>Morale booster/community builder app to help put productivity back in the workplace</p>
                                 </article>
 
                             </div>
